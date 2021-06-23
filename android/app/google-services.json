@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034914962782",
+    "project_id": "smartcraft-77d0f",
+    "storage_bucket": "smartcraft-77d0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034914962782:android:ac95dc4b1a80bd1305c3cf",
+        "android_client_info": {
+          "package_name": "com.kylle.smartcraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034914962782-f6ff6tifrube93hsdnor99m7egbhg6m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZuGe7h9xlLrCU4v02vvDXBEKND4YxbOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034914962782-f6ff6tifrube93hsdnor99m7egbhg6m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
